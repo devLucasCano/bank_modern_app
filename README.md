@@ -1,6 +1,6 @@
 # Hoobank - React JS.
 
-<img src="img/boo1.png" alt="Lucas"> <br>
+<img src="public/boo1.png" alt="Lucas"> <br>
 
 <hr>
 
